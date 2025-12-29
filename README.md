@@ -1,7 +1,4 @@
 # Frontend Mentor - QR code component
 
-I just finished the QR code component challeng. 
-
-I followed the instructiones provided by the Frontend Mentor and tried my best to make it as mentioned in the Figma design - 
-Thanks for your comments, I am still learning your feedback is appreciated.
-
+I’ve just completed the QR code component challenge.
+I followed the instructions provided by Frontend Mentor and did my best to match the Figma design. Thank you for your comments—I’m still learning, and any feedback is greatly appreciated.
